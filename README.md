@@ -2,7 +2,7 @@
 
 ## 📂 Project Overview
 
-I developed a comprehensive SIM & Device Management System for \BLUE STAR HI TECH to help manage and track SIM card and device records efficiently. The system streamlines data entry, access control, and reporting for administrators and staff.
+I developed a comprehensive SIM & Device Management System for BLUE STAR HI-TECH to help manage and track SIM card and device records efficiently. The system streamlines data entry, access control, and reporting for administrators and staff.
 
 ---
 
@@ -59,15 +59,15 @@ For more information about this project or to discuss similar work, feel free to
 * SIM Record
 * SIM Entry Form
 
-*![Admin(I.T) Page](image.png)*
-*![Staff](image-1.png) *
-*![Admin Dashboard](image-2.png)*
-*![SIM Records](image-3.png)*
-*![Device records](image-4.png)*
-*![Manage users](image-5.png)*
-*![Analytic report](image-6.png)*
-*![Profile](image-7.png)*
-*![Devcice Record taker(user) Dashbord](image-8.png)*
-*![Device entry form](image-9.png)*
-*![Sim recorder taker(user) Dashboard](image-10.png)*
-*![Sim Entry form](image-11.png)*
+*![Admin(I.T) Page](images/image.png)*
+*![Staff](images/image-1.png) *
+*![Admin Dashboard](images/image-2.png)*
+*![SIM Records](images/image-3.png)*
+*![Device records](images/image-4.png)*
+*![Manage users](images/image-5.png)*
+*![Analytic report](images/image-6.png)*
+*![Profile](images/image-7.png)*
+*![Devcice Record taker(user) Dashbord](images/image-8.png)*
+*![Device entry form](images/image-9.png)*
+*![Sim recorder taker(user) Dashboard](images/image-10.png)*
+*![Sim Entry form](images/image-11.png)*
