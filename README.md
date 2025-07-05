@@ -2,7 +2,7 @@
 
 ## 📂 Project Overview
 
-I developed a comprehensive SIM & Device Management System for \[Company Name] to help manage and track SIM card and device records efficiently. The system streamlines data entry, access control, and reporting for administrators and staff.
+I developed a comprehensive SIM & Device Management System for \BLUE STAR HI TECH to help manage and track SIM card and device records efficiently. The system streamlines data entry, access control, and reporting for administrators and staff.
 
 ---
 
